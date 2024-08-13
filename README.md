@@ -1,4 +1,4 @@
-# swaglabs-playwright-automation
+# Swaglabs Automation using Playwright:TS
 
 Using Playwright to automate [Swag Labs Demo website](https://www.saucedemo.com/).
 
